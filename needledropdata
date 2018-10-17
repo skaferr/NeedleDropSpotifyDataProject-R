@@ -1,0 +1,12 @@
+#Needle drop data
+I got the needle drop ratings from this file:
+https://docs.google.com/spreadsheets/d/1GbGyWVtePH8RZCZd7N3RPDh8m-K6hgO6AyKsAHZpbeQ/edit#gid=0
+which was posted by reddit user Opst3r (thank you to them).
+
+I cleaned the data by deleteing albums with no score, and obscure words for rating. 
+some of the ratings I could assume numerical ratings:
+classic=9
+not good=0
+solid=6
+lukewarm=5
+6(66)=6
